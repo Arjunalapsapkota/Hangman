@@ -1,0 +1,22 @@
+{
+  "name": "hangmancli",
+  "version": "1.0.0",
+  "description": "Hangman CLI on NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/b4ruch/HangmanCLI.git"
+  },
+  "author": "Baruch Flores",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/b4ruch/HangmanCLI/issues"
+  },
+  "homepage": "https://github.com/b4ruch/HangmanCLI#readme",
+  "dependencies": {
+    "inquirer": "^6.0.0"
+  }
+}
